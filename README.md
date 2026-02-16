@@ -58,10 +58,10 @@ Furkids AI 是全球領先開發 **「寵物跨模態感官辨識」** 技術的
 
 
 ## 如何加入
-請在本 Repo 的 [Issues](./issues) 開一個新 issue，標題為「申請招募AI深度學習視覺識別工程師| Co-founder Track — 你的名字」，並簡述：
-1. 你的技術背景與作品連結（GitHub）  
-2. 你能投入的時間與期望角色  
-3. 為什麼你想加入 Furkids AI
-4. 並將你的簡歷一併寄送給我們robbie@gogotalkfun.com，郵件標題為「申請招募AI深度學習視覺識別工程師Co-founder Track_你的名字」
+請在本 Repo 的 [Issues](./issues) 開一個新 issue，標題為**「申請招募AI深度學習視覺識別工程師| Co-founder Track — 你的名字」**，並簡述：
+1. **你的技術背景與作品連結（GitHub）**  
+2. **你能投入的時間與期望角色**  
+3. **為什麼你想加入 Furkids AI**
+4. 並將**你的履歷**一併寄送給我們**robbie@gogotalkfun.com，郵件標題為「申請招募AI深度學習視覺識別工程師Co-founder Track_你的名字」**
 
 我們會在 7 天內回覆，並邀請合適人選進一步交流。
